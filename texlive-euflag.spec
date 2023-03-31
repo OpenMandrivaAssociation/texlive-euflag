@@ -1,6 +1,6 @@
 Name:		texlive-euflag
 Version:	55265
-Release:	1
+Release:	2
 Summary:	A command to reproduce the flag of the European Union
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/euflag
