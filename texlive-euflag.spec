@@ -3,7 +3,7 @@ Version:	55265
 Release:	2
 Summary:	A command to reproduce the flag of the European Union
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/euflag
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/euflag
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/euflag.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/euflag.doc.r%{version}.tar.xz
